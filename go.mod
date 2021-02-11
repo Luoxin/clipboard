@@ -1,1 +1,1 @@
-module github.com/atotto/clipboard
+module github.com/luoxin/clipboard
